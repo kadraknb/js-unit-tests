@@ -1,0 +1,22 @@
+const vqv = (aa, bb) => {
+    if (typeof aa , bb !== undefined) {
+     return `Oi, meu nome é ${aa}!
+  Tenho ${bb} anos,
+  trabalho na Trybe e mando muito em programação!
+  #VQV!`;
+    } return undefined;
+    // return console.log(typeof aa , bb); 
+  };
+  vqv()
+
+
+
+
+/*   const vqv = (aa, bb) => {
+    if (aa.length !== 0 && bb.length !== 0) {
+     return `Oi, meu nome é ${aa}!
+  Tenho ${bb} anos,
+  trabalho na Trybe e mando muito em programação!
+  #VQV!`;
+    } return undefined;
+  }; */
