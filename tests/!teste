@@ -1,13 +1,11 @@
 const vqv = (aa, bb) => {
-    if (typeof aa , bb !== undefined) {
      return `Oi, meu nome é ${aa}!
   Tenho ${bb} anos,
   trabalho na Trybe e mando muito em programação!
   #VQV!`;
-    } return undefined;
     // return console.log(typeof aa , bb); 
   };
-  vqv()
+  vqv('sim','nao')
 
 
 
@@ -19,4 +17,7 @@ const vqv = (aa, bb) => {
   trabalho na Trybe e mando muito em programação!
   #VQV!`;
     } return undefined;
-  }; */
+  }; *//* if (!aa || !bb) {
+        return undefined
+     
+    } */
