@@ -47,6 +47,7 @@ describe('6 - Implemente os casos de teste para a função `productDetails`', ()
      expect(productDetails('sim', 'nao')[0] !== productDetails('sim', 'nao')[1]).toBe(true)
     // // Teste se os dois productIds terminam com 123.
     expect(Object.values(productDetails('sim', 'nao')[0])[1].productId.slice(3)).toBe('123')
+    expect(Object.values(productDetails('sim', 'nao')[1])[1].productId.slice(3)).toBe('123')
     
   });
 });
