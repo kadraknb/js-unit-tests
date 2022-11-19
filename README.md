@@ -1,13 +1,24 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do js-unit-tests!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+  <summary><strong>O que foi desenvolvido</strong></summary>
+  
+implementado várias funções na resolução dos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.<br />
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções;
+funções de forma que elas atendam a testes já implementados;
+testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+
+<br />
+</details>
+
+## 🛠 Tecnologias
+
+- JavaScript
+- Jest
+
+## 📪 Contato
+
+- Email: [vagner_cardoso_s@outlook.com](vagner_cardoso_s@outlook.com)
+- GitHub: [kadraknb](https://github.com/kadraknb)
+- LinkedIn: [vagner-cardos-santos](https://www.linkedin.com/in/vagner-cardos-santos/)
